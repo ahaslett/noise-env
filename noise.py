@@ -1,5 +1,3 @@
-#ubuntu18 - 192.168.151.11
-#centos7 64bit - 192.168.151.10
 #!/usr/bin/python
 
 import sys
